@@ -1,2 +1,1 @@
-# RFM_analysis
-⭐RFM analysis of online store users.
+# RFM-анализ пользователей интернет-магазина.
